@@ -41,7 +41,7 @@ export default function LandingPage() {
         </motion.p>
 
         <motion.a
-          href="https://www.mediafire.com/file/jfnw4zekrd9zb3d/JellaStreamX-V1.0.1.apk/file.apk"
+          href="https://www.mediafire.com/file/k96n3xf8pvugj1n/JX-V1.0.1.apk/file"
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
           className="mt-8 flex items-center gap-2 bg-red-700 hover:bg-red-800 px-6 py-3 rounded-2xl font-semibold text-lg shadow-lg"
