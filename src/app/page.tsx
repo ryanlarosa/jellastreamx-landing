@@ -87,7 +87,7 @@ export default function LandingPage() {
         <p className="text-gray-500 text-sm">
           © 2025 JellaStreamX. All rights reserved.
         </p>
-        <p className="text-gray-600 text-xs mt-2">Contact: your@email.com</p>
+        {/* <p className="text-gray-600 text-xs mt-2">Contact: your@email.com</p> */}
       </footer>
     </div>
   );
